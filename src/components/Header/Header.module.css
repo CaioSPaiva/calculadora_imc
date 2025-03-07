@@ -1,0 +1,7 @@
+.header {
+    padding: 8px 4px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: var(--fonteHeader);
+}
